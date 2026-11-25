@@ -88,6 +88,17 @@
             //Console.WriteLine(newPages.GetType());
 
             #endregion
+
+            #region Question10
+            //int copies = 100;
+            // Boxing
+            //object obj = copies;
+            // Unboxing
+            //int newCopies = (int)obj;
+
+            //Console.WriteLine(obj);
+            //Console.WriteLine(newCopies);
+            #endregion
         }
     }
 }
