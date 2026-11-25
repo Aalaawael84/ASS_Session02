@@ -79,6 +79,15 @@
             //Console.WriteLine("Invalid number");
             //}
             #endregion
+
+            #region Question9
+            //int pages = 464;
+            //string newPages = pages.ToString();
+
+            //Console.WriteLine(newPages);
+            //Console.WriteLine(newPages.GetType());
+
+            #endregion
         }
     }
 }
