@@ -59,6 +59,11 @@
             //Console.WriteLine(newprice);
             #endregion
 
+            #region Question7
+            //string pagesText = "464";
+            //int number =Convert.ToInt32(pagesText);
+            //Console.WriteLine(number);
+            #endregion
         }
     }
 }
