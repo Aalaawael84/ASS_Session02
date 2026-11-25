@@ -52,6 +52,12 @@
             //Console.WriteLine(newpages);
 
             #endregion
+
+            #region Question6
+            //double price = 49.99;
+            //int newprice =(int)price;
+            //Console.WriteLine(newprice);
+            #endregion
         }
     }
 }
