@@ -21,6 +21,11 @@
             //Console.WriteLine(book02.GetHashCode());
             //Console.WriteLine(book02.GetType());
             #endregion
+
+            #region Question3
+            //int pages = Convert.ToInt32("464");
+            //Console.WriteLine(pages);
+            #endregion
         }
     }
 }
